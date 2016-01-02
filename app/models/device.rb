@@ -14,6 +14,7 @@ class Device < ActiveRecord::Base
     super
   end
 
+end
 
 # class Device < ActiveRecord::Base
 #     belongs_to :user
